@@ -1,0 +1,26 @@
+/* basic site styles */
+* {
+	box-sizing:border-box;
+}
+
+body {
+	margin: 0;
+	font-family: Segoe UI, Trebuchet MS, sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.thumbnail {
+	float: left;
+	margin: 0 15px 5px 0;
+}
+
+
+/* mobile layout styles */
+
